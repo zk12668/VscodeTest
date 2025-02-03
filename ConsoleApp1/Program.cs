@@ -23,6 +23,7 @@ internal class Program
         #endregion
 
          Console.WriteLine(Student.studentNo);
+         Console.WriteLine(Student.studentNo);
         #region 静态类的扩展方法
        // Console.WriteLine( );
 
