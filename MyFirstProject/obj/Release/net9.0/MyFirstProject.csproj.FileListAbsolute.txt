@@ -1,0 +1,15 @@
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\MyFirstProject.exe
+d:\csharpProject\MyFirstProject\bin\Release\net9.0\MyFirstProject.deps.json
+d:\csharpProject\MyFirstProject\bin\Release\net9.0\MyFirstProject.runtimeconfig.json
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\MyFirstProject.dll
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\MyFirstProject.pdb
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.AssemblyInfoInputs.cache
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.AssemblyInfo.cs
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.sourcelink.json
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.dll
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\refint\MyFirstProject.dll
+D:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.pdb
+d:\csharpProject\MyFirstProject\obj\Release\net9.0\MyFirstProject.genruntimeconfig.cache
+d:\csharpProject\MyFirstProject\obj\Release\net9.0\ref\MyFirstProject.dll

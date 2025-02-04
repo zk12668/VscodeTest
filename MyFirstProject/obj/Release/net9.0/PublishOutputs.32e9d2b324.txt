@@ -1,0 +1,5 @@
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\publish\MyFirstProject.exe
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\publish\MyFirstProject.dll
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\publish\MyFirstProject.deps.json
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\publish\MyFirstProject.runtimeconfig.json
+D:\csharpProject\MyFirstProject\bin\Release\net9.0\publish\MyFirstProject.pdb
