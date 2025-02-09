@@ -1,0 +1,11 @@
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\MyWebApiApp.exe
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\appsettings.json
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\MyWebApiApp.dll
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\MyWebApiApp.deps.json
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\MyWebApiApp.runtimeconfig.json
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\MyWebApiApp.pdb
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\csharpProject\MyWebApiApp\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
