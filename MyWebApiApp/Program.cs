@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+//测试版本4
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webapimcv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ef73cd90e93eae6413cb728de77bf8b661fce21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7336322866266868a5c949f52e66c750cc9ce9af")]
 [assembly: System.Reflection.AssemblyProductAttribute("webapimcv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webapimcv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
