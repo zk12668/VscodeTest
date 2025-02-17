@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("webapimcv")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DelegateDemo1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94505e0ce378613d4b413cd8820f9ddd6ab582a7")]
-[assembly: System.Reflection.AssemblyProductAttribute("webapimcv")]
-[assembly: System.Reflection.AssemblyTitleAttribute("webapimcv")]
+[assembly: System.Reflection.AssemblyProductAttribute("DelegateDemo1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DelegateDemo1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

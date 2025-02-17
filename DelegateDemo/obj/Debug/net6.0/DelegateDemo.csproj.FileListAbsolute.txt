@@ -1,0 +1,15 @@
+d:\VscodeTest\DelegateDemo\bin\Debug\net6.0\DelegateDemo.exe
+d:\VscodeTest\DelegateDemo\bin\Debug\net6.0\DelegateDemo.deps.json
+d:\VscodeTest\DelegateDemo\bin\Debug\net6.0\DelegateDemo.runtimeconfig.json
+d:\VscodeTest\DelegateDemo\bin\Debug\net6.0\DelegateDemo.dll
+d:\VscodeTest\DelegateDemo\bin\Debug\net6.0\DelegateDemo.pdb
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfoInputs.cache
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfo.cs
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.CoreCompileInputs.cache
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.sourcelink.json
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.dll
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\refint\DelegateDemo.dll
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.pdb
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\DelegateDemo.genruntimeconfig.cache
+d:\VscodeTest\DelegateDemo\obj\Debug\net6.0\ref\DelegateDemo.dll

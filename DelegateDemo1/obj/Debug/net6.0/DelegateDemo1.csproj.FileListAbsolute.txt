@@ -1,0 +1,5 @@
+d:\VscodeTest\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.GeneratedMSBuildEditorConfig.editorconfig
+d:\VscodeTest\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.AssemblyInfoInputs.cache
+d:\VscodeTest\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.AssemblyInfo.cs
+d:\VscodeTest\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.csproj.CoreCompileInputs.cache
+d:\VscodeTest\DelegateDemo1\obj\Debug\net6.0\DelegateDemo1.sourcelink.json
