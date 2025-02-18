@@ -1,0 +1,15 @@
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.AssemblyInfoInputs.cache
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.AssemblyInfo.cs
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.csproj.CoreCompileInputs.cache
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.sourcelink.json
+d:\VscodeTest\ClassAndInterface\bin\Debug\net6.0\ClassAndInterface.exe
+d:\VscodeTest\ClassAndInterface\bin\Debug\net6.0\ClassAndInterface.deps.json
+d:\VscodeTest\ClassAndInterface\bin\Debug\net6.0\ClassAndInterface.runtimeconfig.json
+d:\VscodeTest\ClassAndInterface\bin\Debug\net6.0\ClassAndInterface.dll
+d:\VscodeTest\ClassAndInterface\bin\Debug\net6.0\ClassAndInterface.pdb
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.dll
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\refint\ClassAndInterface.dll
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.pdb
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ClassAndInterface.genruntimeconfig.cache
+d:\VscodeTest\ClassAndInterface\obj\Debug\net6.0\ref\ClassAndInterface.dll

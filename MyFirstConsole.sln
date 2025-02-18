@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo", "DelegateDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo1", "DelegateDemo1\DelegateDemo1.csproj", "{D2B4660B-2CC1-4BD2-802A-1D720BF3D89B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAndInterface", "ClassAndInterface\ClassAndInterface.csproj", "{43E79C8F-3143-4D99-8AA9-07C0E1E3902A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{D2B4660B-2CC1-4BD2-802A-1D720BF3D89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B4660B-2CC1-4BD2-802A-1D720BF3D89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B4660B-2CC1-4BD2-802A-1D720BF3D89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E79C8F-3143-4D99-8AA9-07C0E1E3902A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E79C8F-3143-4D99-8AA9-07C0E1E3902A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E79C8F-3143-4D99-8AA9-07C0E1E3902A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E79C8F-3143-4D99-8AA9-07C0E1E3902A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

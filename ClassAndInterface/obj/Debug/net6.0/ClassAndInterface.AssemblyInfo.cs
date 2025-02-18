@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DelegateDemo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ClassAndInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6288b4b2c06131f88ba287de895433969f4f6d4d")]
-[assembly: System.Reflection.AssemblyProductAttribute("DelegateDemo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DelegateDemo")]
+[assembly: System.Reflection.AssemblyProductAttribute("ClassAndInterface")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ClassAndInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
