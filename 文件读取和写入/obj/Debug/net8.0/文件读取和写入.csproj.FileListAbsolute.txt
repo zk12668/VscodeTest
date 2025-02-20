@@ -1,0 +1,15 @@
+d:\VscodeTest\文件读取和写入\bin\Debug\net8.0\文件读取和写入.exe
+d:\VscodeTest\文件读取和写入\bin\Debug\net8.0\文件读取和写入.deps.json
+d:\VscodeTest\文件读取和写入\bin\Debug\net8.0\文件读取和写入.runtimeconfig.json
+d:\VscodeTest\文件读取和写入\bin\Debug\net8.0\文件读取和写入.dll
+d:\VscodeTest\文件读取和写入\bin\Debug\net8.0\文件读取和写入.pdb
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.GeneratedMSBuildEditorConfig.editorconfig
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.AssemblyInfoInputs.cache
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.AssemblyInfo.cs
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.csproj.CoreCompileInputs.cache
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.sourcelink.json
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.dll
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\refint\文件读取和写入.dll
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.pdb
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\文件读取和写入.genruntimeconfig.cache
+d:\VscodeTest\文件读取和写入\obj\Debug\net8.0\ref\文件读取和写入.dll

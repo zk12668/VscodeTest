@@ -1,0 +1,15 @@
+d:\VscodeTest\里氏替换\bin\Debug\net8.0\里氏替换.exe
+d:\VscodeTest\里氏替换\bin\Debug\net8.0\里氏替换.deps.json
+d:\VscodeTest\里氏替换\bin\Debug\net8.0\里氏替换.runtimeconfig.json
+d:\VscodeTest\里氏替换\bin\Debug\net8.0\里氏替换.dll
+d:\VscodeTest\里氏替换\bin\Debug\net8.0\里氏替换.pdb
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.GeneratedMSBuildEditorConfig.editorconfig
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.AssemblyInfoInputs.cache
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.AssemblyInfo.cs
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.csproj.CoreCompileInputs.cache
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.sourcelink.json
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.dll
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\refint\里氏替换.dll
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.pdb
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\里氏替换.genruntimeconfig.cache
+d:\VscodeTest\里氏替换\obj\Debug\net8.0\ref\里氏替换.dll

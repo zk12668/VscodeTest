@@ -1,0 +1,15 @@
+d:\VscodeTest\IO\bin\Debug\net8.0-windows\IO.exe
+d:\VscodeTest\IO\bin\Debug\net8.0-windows\IO.deps.json
+d:\VscodeTest\IO\bin\Debug\net8.0-windows\IO.runtimeconfig.json
+d:\VscodeTest\IO\bin\Debug\net8.0-windows\IO.dll
+d:\VscodeTest\IO\bin\Debug\net8.0-windows\IO.pdb
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.GeneratedMSBuildEditorConfig.editorconfig
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.AssemblyInfoInputs.cache
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.AssemblyInfo.cs
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.csproj.CoreCompileInputs.cache
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.sourcelink.json
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.dll
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\refint\IO.dll
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.pdb
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\IO.genruntimeconfig.cache
+d:\VscodeTest\IO\obj\Debug\net8.0-windows\ref\IO.dll

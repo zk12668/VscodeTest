@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "文件读取和写入/1.0.0": {
+        "runtime": {
+          "文件读取和写入.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "文件读取和写入/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
